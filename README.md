@@ -1,7 +1,7 @@
 # VLPatil-Ind-Gen-Classic
 
 ### Zero-electronics fixed-frequency variable-speed wind/hydro generator (1–25 kW)  
-**Open hardware by VLPATIL (Virupax Patil), India 2019–2025**
+**Open hardware by Virupax Patil (VLPATIL), India 2019–2025**
 
 The Classic version — conceived, drawn, and bench-tested 2019–2020 — beats every inverter-based small wind turbine in cost, lifetime, and village repairability.
 
@@ -20,15 +20,15 @@ Result: clean 50 Hz output over ±30–40 % speed range with **zero power electr
 You are free to build, modify, and sell — just keep my name and release derivatives under the same licences.
 
 **Coming in 2026**  
-- Virupaksha Precision Cradle kit (CNC + maglev bearing)  
+- Virupax Precision Cradle kit (CNC + maglev bearing)  
 - Torque Hunter™ intelligent servo controller (automatic MPPT)
 
 Until then the Classic works perfectly with locally made parts and any standard servo.
 
 **Contact / Support the inventor**  
-[add your email / phone / UPI later when ready]
+(email / phone / UPI will be added when ready)
 
-India’s villages no longer need Chinese inverters that die in five monsoons.  
+No village anywhere in the world needs another inverter that dies in five monsoons.  
 The future is mechanical again.
 
-⚡ Made in India | Built to last 40 years | Serviceable by any roadside rewinder ⚡
+Made in India | Built to last 40 years | Serviceable by any roadside rewinder
