@@ -26,7 +26,9 @@ You are free to build, modify, and sell — just keep my name and release deriva
 Until then the Classic works perfectly with locally made parts and any standard servo.
 
 **Contact / Support the inventor**  
-(email / phone / UPI will be added when ready)
+Mail: adityatech.ubl@gmail.com 
+Contact: +91 9731461367
+(UPI will be added when ready)
 
 No village anywhere in the world needs another inverter that dies in five monsoons.  
 The future is mechanical again.
